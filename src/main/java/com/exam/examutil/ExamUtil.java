@@ -1,5 +1,5 @@
 package com.exam.examutil;
-
+//test for git update
 public interface ExamUtil {
 
 		public String getTodaydat();
